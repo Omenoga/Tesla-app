@@ -9,11 +9,11 @@
 </head>
 </head>
 <body>
-<h1 align="center">Landmark Technology - Leaders in Software Delivery and DevOps Automation</h1>
-<h2 align="center"> Welcome to Landmark Technology.......We have a demo on DevOps E Degree with Linux and AWS  on Sunday Oct 9, 2022 at 3PM EST for our new batch. 
+<h1 align="center">Tesla EVs - Leaders in EV Infrastructure and Automechanics</h1>
+<h2 align="center"> Welcome to our home page.......We expect updated content on Sunday Oct 9, 2022 at 3PM EST for our new model X. 
 	Landmark Technology Tesla web application project2. 
 	</h2>
-	<h2 align="center" >DevOps is good. JESUS IS LORD. I AM BLESSED. Production</h2>
+	<h2 align="center" >Stay Tuned. DRIVE ELECTRIC. Production</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
